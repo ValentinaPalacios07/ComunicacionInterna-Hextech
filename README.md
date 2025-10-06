@@ -1,1 +1,1 @@
-# Comunicaci-n-Interna---Hextech
+# ComunicacionInterna-Hextech
